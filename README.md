@@ -9,4 +9,6 @@
 	- Internet: 1 Gbit
 
 2. Minisforum HM90
-	- 
+	- CPU: AMD Ryzen 9 4900H
+	- RAM: 32 GB 
+	- Drives: 512GB SSD & 1 TB SSD
